@@ -1,0 +1,19 @@
+.container{
+  justify-content: center;
+  align-items: center;
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+.header,form{
+  color:black;
+  justify-content:center;
+  font-size: 3rem;
+  margin-left:500px;
+
+}
+.button{
+  background-color: rgb(47, 0, 255);
+  color: white;
+  margin-left: 500px;
+}
